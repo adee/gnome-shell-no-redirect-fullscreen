@@ -3,10 +3,11 @@
         "3.10",
         "3.12",
         "3.14",
-        "3.16"
+        "3.16",
+        "3.18"
     ], 
     "uuid": "nounredirect@email.com", 
     "name": "Disable unredirect fullscreen", 
     "description": "Disable unredirect fullscreen applications",
-    "url": "http://github.com/adee/gnome-shell-no-redirect-fullscreen"
+    "url": "https://github.com/adee/gnome-shell-no-redirect-fullscreen"
 }
